@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cardboard",
+    "label": "cardboard",
+    "filename": "cardboard.jpg",
+    "source_image": "cardboard/cardboard10.jpg"
+  },
+  {
+    "id": "glass",
+    "label": "glass",
+    "filename": "glass.jpg",
+    "source_image": "glass/glass10.jpg"
+  },
+  {
+    "id": "metal",
+    "label": "metal",
+    "filename": "metal.jpg",
+    "source_image": "metal/metal102.jpg"
+  },
+  {
+    "id": "paper",
+    "label": "paper",
+    "filename": "paper.jpg",
+    "source_image": "paper/paper104.jpg"
+  },
+  {
+    "id": "plastic",
+    "label": "plastic",
+    "filename": "plastic.jpg",
+    "source_image": "plastic/plastic108.jpg"
+  },
+  {
+    "id": "trash",
+    "label": "trash",
+    "filename": "trash.jpg",
+    "source_image": "trash/trash10.jpg"
+  }
+]

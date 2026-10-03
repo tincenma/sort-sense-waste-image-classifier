@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mobilenetv2",
+    "name": "MobileNetV2",
+    "description": "ImageNet features adapted to six waste categories.",
+    "test_accuracy": 0.873015873015873,
+    "test_macro_f1": 0.8442226095645081
+  },
+  {
+    "id": "baseline_cnn",
+    "name": "Small CNN",
+    "description": "Three convolution blocks trained from scratch.",
+    "test_accuracy": 0.6031746031746031,
+    "test_macro_f1": 0.5856651959549043
+  }
+]
